@@ -126,5 +126,3 @@ This lab demonstrates how a baseline CNN can perform image-to-image translation 
 ---
 
 
-Tell me what level you want 😄
-
