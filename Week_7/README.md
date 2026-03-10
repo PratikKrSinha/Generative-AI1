@@ -89,10 +89,8 @@ Generative-AI1
 │
 └── Week_7
       ├── README.md
-      ├── style_transfer.py
-      ├── content.png
-      ├── style.png
-      └── output.png
+      ├── week_7_GenAI.pdf
+      └── Week_7LAB.ipynb
 ```
 
 ---
