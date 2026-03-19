@@ -122,7 +122,7 @@ python your_script.py
 
 ## 🙌 Author
 
-**Pratik Sinha**
+**Pratik Kumar Sinha**
 🎓 B.Tech Student
 
 ---
