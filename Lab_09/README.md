@@ -166,5 +166,5 @@ model = tf.keras.models.load_model("dcgan_generator.keras")
 
 ## 👨‍💻 Author
 
-**Pratik Sinha**
+**Pratik Kumar Sinha**
 
